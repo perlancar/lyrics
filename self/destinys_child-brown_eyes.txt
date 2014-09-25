@@ -5,7 +5,7 @@ remember the first day when you smiled at me
 you stepped to me and then you said to me
 i was the woman you dreamed about
 
-remember the first day when you caught my blouse
+remember the first day when you <caught my blouse>(called my house)
 remember the first day when you took me out
 we had butterflies although we tried to hide it
 and we both had a beautiful night
@@ -14,24 +14,23 @@ x:
 the way we held each other's hand
 the way we talked the way we laughed
 it felt so good to find true love
-i knew ... you're the one
+i knew <...>(right then and there that) you're the one
 
 reff:
 i know that he loved me cause he told me so
-i know that he loved me cause his feeling showed
-when he's you see he cares for me
+i know that he loved me cause his feelings show
+when he<'s>( stares at me) you see he cares for me
 you see how's he's so deep in love
 
 i know that he loves me cause it's obvious
 i know that he loves me cause it's me he trusts
 and he's missing me if he's not kissing me
-and when he looks at me his brown eyes tell it so
+and when he looks at me his brown eyes tell <it so>(his soul)
 
 remember the first day the first day we kissed
-when i say you face
 remember the first day when we had an argument
 we apologized and the we compromised
-we haven't argued since
+and we haven't argued since
 
 remember the first day we stopped playing games
 remember the first day you fell in love with me
@@ -40,4 +39,7 @@ cause i felt the same way too
 
 (x)
 
-now that you're a part me
+and baby now that you're a part of me
+you showed me
+showed me the true meaning of love
+and i know he loves me
